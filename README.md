@@ -2,9 +2,9 @@
 
 I'm a Computer Science undergraduate at the University of Southampton (graduating 2027) and founder of [**Volani Limited**](https://github.com/volani-limited), an independent software business established to publish and maintain my commercial and open-source projects.
 
-Through Volani, I've build and continue to operate services including [*ChatSMS*](https://chatsms.uk) (AI via SMS and Voice calls), and [*HiberniaVPN*](https://hiberniavpn.com) (a privacy-first VPN), combining full-stack development with infrastructure and business management.
+Through Volani, I've built and continue to operate services including [*ChatSMS*](https://chatsms.uk) (AI via SMS and Voice calls), and [*HiberniaVPN*](https://hiberniavpn.com) (a privacy-first VPN), combining full-stack development with infrastructure and business management.
 
-I love building dependable, well-engineerd software and find creating novel solutions to real-world problems the most rewarding part of development.
+I love building dependable, well-engineered software and find creating novel solutions to real-world problems the most rewarding part of development.
 
 ## 🚢 Flagship Projects
 
@@ -38,9 +38,9 @@ Paid iOS app for rowing coaches to track boat speed and stroke rate via GPS
 - Developed in SwiftUI with CoreLocation and Firebase
 - Published under Volani Limited 2021-2023
 
-***[custom-cpu](https://github.com/oliver-bevan/custom-cpu)*** - Simple CPU and assembler demo created to accompany my [Medium article](https://medium.com/@obevan/a-brief-history-of-computation-and-how-to-design-your-own-cpu-42a6a9d87c4a) on instruction sets and the history of computation.
+***[custom-cpu](https://github.com/oliver-bevan/custom-cpu)*** - Simple CPU and assembler demo created to accompany my [Medium article](https://medium.com/@obevan/a-brief-history-of-computation-and-how-to-design-your-own-cpu-42a6a9d87c4a) on instruction sets and the history of computation
 
-***[vqm](https://github.com/oliver-bevan/vqm)*** - Desktop python app with Cloud Functions backend for running paid-entry live quizzes on Twitch. Integrates Stripe checkout and one-time access code received through the Twich API WebSockets connection.
+***[vqm](https://github.com/oliver-bevan/vqm)*** - Desktop Python app with Cloud Functions backend for running paid-entry live quizzes on Twitch. Integrates Stripe checkout and one-time access code received through the Twitch API WebSockets connection
 
-***[CoolPool](https://github.com/oliver-bevan/coolpool)*** - Arcade-style pool game build in Java for my A-Level coursework (2018), featuring custom physics engine implemented from scratch.
+***[CoolPool](https://github.com/oliver-bevan/coolpool)*** - Arcade-style pool game build in Java for my A-Level coursework (2018), featuring a custom physics engine implemented from scratch
 
