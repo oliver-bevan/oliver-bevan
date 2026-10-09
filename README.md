@@ -1,10 +1,20 @@
 # 👋 Hi, I'm Oliver
 
-I'm a Computer Science undergraduate at the University of Southampton (graduating 2027) and founder of [**Volani Limited**](https://github.com/volani-limited), an independent software business established to publish and maintain my commercial and open-source projects.
+I'm a third-year MEng Computer Science student at the University of Southampton (graduating summer 2028), a Founding Engineer at Meet Warren, and founder of [**Volani Limited**](https://github.com/volani-limited), an independent software business established to publish and maintain my commercial and open-source projects.
 
 Through Volani, I've built and continue to operate apps and services including [*ST Replay*](https://streplay.app) (screen-time recaps for iOS), [*ChatSMS*](https://chatsms.uk) (AI via SMS and Voice calls), and [*HiberniaVPN*](https://hiberniavpn.com) (a privacy-first VPN), combining full-stack development with infrastructure and business management.
 
-I love building dependable, well-engineered software and find creating novel solutions to real-world problems the most rewarding part of development.
+Since completing A-Level Computer Science aged 13, I've built experience across mobile, backend and AI systems. I love building dependable, well-engineered software and find creating novel solutions to real-world problems the most rewarding part of development. More recently, I've especially enjoyed working on products where software engineering, product thinking and applied AI overlap.
+
+[LinkedIn](https://www.linkedin.com/in/oliverbevann/)
+
+## 💼 Current Work
+
+### Meet Warren - Founding Engineer
+Joined in June 2026, working full-time over the summer and continuing part-time alongside my studies from September 2026.
+- Building and evaluating AI agents for financial planning, including onboarding, plan generation, voice and adviser tooling
+- Developing financial-modelling capabilities across household modelling, tax systems and backwards calculation
+- Creating adversarial evaluations for agentic and voice AI, with production-path validation and failure analysis
 
 ## 🚢 Flagship Projects
 
